@@ -1,0 +1,31 @@
+.link-head {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.links {
+  font-size: 20px;
+}
+
+.page-footer {
+  background-image: linear-gradient(to right, red, purple) !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.foot-admin-link {
+  cursor: initial;
+  text-decoration: none !important;
+}
+
+.visitCount {
+  font-family: bree-serif;
+  text-align: center;
+  margin-top: 20px;
+  border: 2px solid white;
+}
+
+.footer-copyright {
+  background-image: linear-gradient(to left, red, purple) !important;
+  padding: 5px;
+}

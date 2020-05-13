@@ -1,0 +1,18 @@
+.gra-border {
+  border-image: linear-gradient(to right, red, blue, purple);
+  border-image-width: 4px;
+  border-image-slice: 1;
+  border-bottom: solid transparent;
+}
+
+.my-nav-manager {
+  margin: 20px;
+}
+
+.tab-head {
+  font-family: bree-serif;
+  background-image: linear-gradient(to right, red, blue, red);
+  color: white;
+  margin-bottom: 25px;
+  font-size: 30px !important;
+}

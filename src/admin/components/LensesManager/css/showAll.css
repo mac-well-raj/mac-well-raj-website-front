@@ -1,0 +1,26 @@
+.lens-category-head {
+  font-size: 30px;
+  background-image: linear-gradient(to right, red, purple);
+  color: white;
+  padding: 5px;
+}
+
+tr {
+  border: 2px solid red;
+}
+
+th {
+  text-align: center;
+  border: 2px solid red;
+  font-size: 18px;
+}
+
+td {
+  text-align: center;
+  border: 2px solid red;
+  font-weight: bold;
+}
+
+.material-icons {
+  cursor: pointer;
+}

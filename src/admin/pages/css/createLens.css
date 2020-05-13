@@ -1,0 +1,49 @@
+.my-create-lens-cont {
+  width: 95%;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+
+.cl-head {
+  font-size: 50px !important;
+}
+
+.lens-desc {
+  outline: none;
+  font-size: 18px;
+  border: 2px solid purple;
+  padding: 10px;
+  height: 100px;
+}
+
+.lens_img_selector_head {
+  margin: 0;
+  font-size: 35px;
+}
+
+.lens_img_selector_cont {
+  border: 2px solid purple;
+  padding: 10px !important;
+}
+
+.lens_img_selector{
+  font-size: 20px;
+  background-image: linear-gradient(to right, red, purple);
+  color: white;
+  width: 100%;
+}
+
+input#lens_image{
+  padding: 10px;
+}
+
+.cat-selector {
+  border: 2px solid purple;
+  outline: none !important;
+  font-weight: bold;
+  font-size: 20px;
+  color: blueviolet;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,52 @@
+.product-title {
+  font-size: 75px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: red;
+  animation-name: head-color;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  transition: 1s;
+}
+
+@keyframes head-color {
+  0% {
+    color: red;
+  }
+  25% {
+    color: purple;
+  }
+  50% {
+    color: indigo;
+  }
+  75% {
+    color: blue;
+  }
+  100% {
+    color: orange;
+  }
+}
+
+.product-desc {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: darkviolet;
+}
+
+.feature-list-head {
+  background-image: linear-gradient(to right, purple, red);
+  font-size: 25px;
+}
+
+.list-group-item {
+  font-size: 25px;
+}
+
+.power-list-head {
+  background-image: linear-gradient(to right, purple, red);
+  font-size: 20px;
+}
+
+.go-back-btn {
+  width: 100% !important;
+}

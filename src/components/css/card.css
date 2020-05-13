@@ -1,0 +1,17 @@
+.card-text {
+  height: 200px !important;
+  overflow-y: scroll;
+}
+
+.card-text::-webkit-scrollbar {
+  width: 20px;
+}
+
+.card-text::-webkit-scrollbar-thumb {
+  background: red;
+  border-radius: 10px;
+}
+
+.card-text::-webkit-scrollbar-thumb:hover {
+  background: #b30000;
+}

@@ -1,0 +1,44 @@
+.my-dashboard {
+  margin: 25px 2.5%;
+}
+
+.b {
+  border-image: linear-gradient(to right, red, blue);
+  border-image-width: 2.5px;
+  border-image-slice: 1;
+  border-bottom: solid transparent;
+}
+
+ul.collection {
+  border: none;
+}
+
+.manage-link-cont {
+  margin: 10px 0px;
+}
+
+.manage-title {
+  font-family: bree-serif;
+  font-weight: bold;
+  color: purple;
+  font-size: 35px;
+}
+
+.manage-item {
+  background-image: linear-gradient(to right, red, purple, red);
+  padding: 10px;
+  margin-top: 10px !important;
+  transition: 1s;
+}
+
+.manage-item:hover {
+  border-radius: 50px;
+  transition: 1s;
+  background-image: linear-gradient(to right, red, purple);
+}
+
+.manage-item-txt {
+  color: white !important;
+  text-decoration: none !important;
+  font-size: 25px;
+}

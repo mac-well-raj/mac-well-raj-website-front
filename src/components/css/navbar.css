@@ -1,0 +1,20 @@
+.nav-custom {
+    padding-left: 25px;
+    padding-right: 25px;
+    background-image: linear-gradient(to left, red, purple) !important;
+}
+
+.brand-logo {
+    font-family: pacifico;
+    color: white;
+    font-size: 40px;
+}
+
+nav ul a {
+    font-weight: bolder;
+    font-size: 20px !important;
+}
+
+.navbar-toggler .collapsed {
+    color: white !important;
+}
