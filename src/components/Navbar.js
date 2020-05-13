@@ -42,7 +42,7 @@ export default class Navbar extends Component {
       <div>
         <nav className="navbar nav-custom navbar-expand-lg navbar-dark">
           <Link to="/">
-            <span className="brand-logo">Mac-Well</span>
+            <span className="brand-logo">Mak-Well</span>
           </Link>
           <button
             className="navbar-toggler"

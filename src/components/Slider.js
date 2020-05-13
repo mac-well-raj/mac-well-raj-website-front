@@ -70,7 +70,7 @@ export default class Slider extends Component {
               <div className={slideObj.background}>
                 <div className="row" key={Index}>
                   <img
-                    height="650px"
+                    height="525px"
                     src={slideObj.image}
                     alt="..."
                     className="col col-lg-6 col-sm-12 offset-lg-3"

@@ -12,7 +12,7 @@ export default class Info extends Component {
               <div className="col-lg-3 col-sm-12 text-center info-head">
                 <img src={Logo} className="App-logo" alt="Logo" />
                 <br />
-                <span className="text-danger">Mac-Well Lenses</span>
+                <span className="text-danger">Mak-Well Lenses</span>
               </div>
               <div className="col-lg-3 col-sm-12 pl-4">
                 <h3 className="text-secondary">
@@ -25,7 +25,7 @@ export default class Info extends Component {
               </div>
               <div className="col-lg-3 col-sm-12 pl-4">
                 <p>
-                  Mac-Well serves you with the finest and best quality of
+                  Mak-Well serves you with the finest and best quality of
                   Ophthamic Lenses, which commits you to enrich your visual
                   experiences.
                   <br />

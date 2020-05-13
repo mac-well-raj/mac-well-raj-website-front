@@ -103,7 +103,7 @@ export default class Contact extends Component {
             <div className="col col-lg-6 col-sm-12 border">
               <h4 className="tab-head text-center">Head Office India</h4>
               <div className="head-address mb-5 text-center font-weight-bold">
-                Mac-Well Lenses Pvt. Ltd. <br />
+                MaK-Well Lenses Pvt. Ltd. <br />
                 4-3-174, KS-Line,
                 <br />
                 Sultan Bazar, Koti,
